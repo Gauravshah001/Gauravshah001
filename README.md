@@ -1,27 +1,24 @@
  <h1 align="center">Hi 👋, I'm Gaurav Shah</h1>
 
-- 🔭 I’m currently working on Internship preparation
+- 🔭 I’m currently seeking for Internship
+  
 - 🌱 I’m currently learning Mern stack and Data structures
-- 💬 Ask me anything about Core Java 
+  
+- 💬 Ask me anything about Core Java
+  
 - 📫 How to reach me: gauravshah7891@gmail.com
 
+- 📄 My Resume :https://drive.google.com/drive/folders/1Y0PdSTHMIdRlT_h7-Fi8YtuhXCcFjuZ_?usp=sharing
   
+
 ### Connect with me:
+
 <div id="badges">
-  <a href="https://github.com/axiftaj">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://www.instagram.com/__gauravshah/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="max-width: 100%;width: 40px;">
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a href="https://www.instagram.com/axif_taj">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/gaurav-shah-2a2a9a213/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="width: 40px;max-width: 100%;padding-left: 15px;">
   </a>
 </div>
 
