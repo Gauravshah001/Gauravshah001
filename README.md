@@ -8,7 +8,7 @@
   
 - 📫 How to reach me: gauravshah7891@gmail.com
 
-- 📄 My Resume :https://drive.google.com/drive/folders/1Y0PdSTHMIdRlT_h7-Fi8YtuhXCcFjuZ_?usp=sharing
+- 📄 My Resume :https://drive.google.com/drive/folders/1Y0PdSTHMIdRlT_h7-Fi8YtuhXCcFFjuZ_?usp=sharing
   
 
 ### Connect with me:
