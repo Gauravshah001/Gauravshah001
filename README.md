@@ -4,9 +4,9 @@
   
 - 🌱 I’m currently learning Mern stack and Data structures
   
-- 💬 Ask me anything about Core Java
+- 💬 Ask me anything about Front-end Technologies
   
-- 📫 How to reach me: gauravshah7891@gmail.com
+- 📫 How to reach me: mailtogauravshah@gmail.com
 
 - 📄 My Resume :https://drive.google.com/drive/folders/1Y0PdSTHMIdRlT_h7-Fi8YtuhXCcFFjuZ_?usp=sharing
   
